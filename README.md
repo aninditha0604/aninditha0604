@@ -25,9 +25,9 @@ Welcome to my GitHub! I'm a Computer Science and Data Analytics student at Ohio 
 - **Data Visualization: Non-Renewable Energy**: Created a Tableau dashboard visualizing global fossil fuel and non-renewable energy trends since 2000.
   
 ## 📫 Contact Me
-- 🌐 [Portfolio Website](#https://aninditha0604.github.io/AninNair.github.io/)
+- 🌐 [Portfolio Website](https://aninditha0604.github.io/AninNair.github.io/)
 - 📧 Email: anindithanair06@gmail.com
-- 💼 [LinkedIn](#https://www.linkedin.com/in/aninditha-nair)
+- 💼 [LinkedIn](https://www.linkedin.com/in/aninditha-nair)
 
 Please feel free to explore my repositories and reach out to me. Let's collaborate on impactful projects! 🚀
 
