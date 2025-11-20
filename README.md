@@ -3,7 +3,7 @@
 Welcome to my GitHub! I'm a Computer Science and Data Analytics student at Ohio Wesleyan University, deeply passionate about using data and technology to drive positive change. My interests lie at the intersection of computational science, sustainability, and social good. 🌱💻
 
 ## 💡 About Me
-- 🎓 Junior at Ohio Wesleyan University 
+- 🎓 Senior at Ohio Wesleyan University 
 - 🌍 Passionate about leveraging data for climate solutions and social impact
 - 🔬 Exploring interdisciplinary applications of AI and computational science
 - 🎭 Apart from tech, I dance, collect vinyls , and love to read 📚
